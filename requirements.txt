@@ -1,0 +1,2 @@
+# No third-party Python packages are required.
+# Uses only the Python 3.10+ standard library.
